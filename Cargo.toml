@@ -1,7 +1,13 @@
 [package]
 name = "catch-input"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+description = "Library implementing a macro for retrieving user input from the console."
+repository = "https://github.com/c1m50c/catch-input"
+readme = "README.MD"
+license = "MIT"
+keywords = [ "cli", "input", "console", "shell", "terminal" ]
+categories = [ "command-line-interface", "command-line-utilities" ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
