@@ -1,5 +1,9 @@
 # **catch-input**
 
+![Crates.io Version](https://img.shields.io/crates/v/catch-input?color=orange&style=for-the-badge)
+![Crates.io License](https://img.shields.io/crates/l/catch-input?style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/c1m50c/catch-input?style=for-the-badge)
+
 Rust library implementing a macro for retrieving user input from the console.
 
 
