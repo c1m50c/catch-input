@@ -1,6 +1,6 @@
 [package]
 name = "catch-input"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Library implementing a macro for retrieving user input from the console."
 repository = "https://github.com/c1m50c/catch-input"
