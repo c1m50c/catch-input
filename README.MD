@@ -31,5 +31,5 @@ $ cargo run
 PromptA => Catch
 PromptB => Input
 PromptC => Crate
-Catch : Input : Crate
+>> Catch : Input : Crate
 ```
