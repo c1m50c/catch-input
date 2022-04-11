@@ -8,7 +8,7 @@ Rust library implementing a macro for retrieving user input from the console.
 
 
 ## **Example**
-```rs
+```rust
 use catch_input::input;
 
 fn main() {

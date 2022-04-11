@@ -35,7 +35,6 @@ use std::ops::FnOnce;
 /// ```txt
 /// Input => Hello, World!
 /// ```
-#[inline]
 #[doc(hidden)]
 pub fn _get_input_with<F: FnOnce()>(prompt: F) -> String {
     let mut result = String::new(); prompt();
